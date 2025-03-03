@@ -5,7 +5,7 @@ Hello, my name is Saul, Bionics engineer and robotics enthusiast passionate abou
 I am currently pursuing a degree in Bionics Engineering at Instituto Politécnico Nacional in Mexico City with a strong interest in areas like autonomous systems, navigation, computer vision and machine learning. I enjoy solving real-world problems through robotics and continuously strive to learn and apply new technologies.
 
 ## Skills
-- Programming: Python, C++, ROS, Arduino, Raspberry Pi, Matlab
+- Programming: Python, C++, ROS, Arduino, Raspberry Pi, ESP32, Matlab
 - Hardware: Circuit design, sensor integration, motor control
 - Technologies: OpenCV, SolidWorks, Fusion 360, Simulink, Git, Linux
 
